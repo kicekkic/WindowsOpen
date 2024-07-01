@@ -53,4 +53,4 @@ After you've either followed the first tutorial or second one, this section is b
 Soon
 
 # License
-Do whatever you want with this.
+MIT License
