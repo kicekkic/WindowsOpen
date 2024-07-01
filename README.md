@@ -8,7 +8,7 @@ Select the tutorial depending on your situation.
 3. Download the .xml file from this repo and then paste it into the USB with your system.
 4. Insert it into your PC and run it. The .xml file contain all tweaks to disable and uninstall unnecessary software and telemetry, you can make your own by going to this [repo](https://github.com/memstechtips/UnattendedWinstall/tree/main).
 5. When you finally get to the Desktop screen, connect to internet and run "LAUNCH-CTT-WINUTIL.ps1", it will give you a window with various programs you can install with basically one click.
-6. If you used the ISO file, then you don't have to look at the other tabs as the (my edited) .xml file basically did all of this for you, except for two tiny things. Go to "Tweaks" tab and check "All .NET Framework" and "HyperV Virtualization" and then click "Install Features". Then go to "Updates" tab and click "Security (Recommended) Settings.
+6. If you used the ISO file, then you don't have to look at the other tabs as the (my edited) .xml file basically did all of this for you, except for four tiny things. Go to "Tweaks" tab and check "All .NET Framework", "HyperV Virtualization" and change "DNS" to "CloudFlare" and then click "Install Features". Then go to "Updates" tab and click "Security (Recommended) Settings.
 ### If you have the system already installed (don't want to do a clean install)
 1. Run [Winutil](https://github.com/ChrisTitusTech/winutil) in powershell.
 2. Make sure you first install a browser of your choice. After installing all of the apps you want, move on to "Tweaks" tab.
@@ -49,8 +49,12 @@ After you've either followed the first tutorial or second one, this section is b
 8. Obviously you want to be sure that all telemetry is disabled, so choose "y".
 9. For all the other prompts, always choose "n" as they are all made for Windows 11 specifically.
 10. Congratulations, you have debloated, optimized and customized your Windows 10 with just practically 2 programs.
-# Extras
-Soon
+# Extras (random stuff)
+- [MassGravel](https://github.com/massgravel/Microsoft-Activation-Scripts)
+- [Win11Debloat](https://github.com/Raphire/Win11Debloat)
+- [Rectify](https://rectify11.net/)
+- [Winutil](https://github.com/ChrisTitusTech/winutil)
+- [Rufus](https://rufus.ie)
 
 # License
 MIT License
