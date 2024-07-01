@@ -27,7 +27,7 @@ After you've either followed the first tutorial or second one, this section is b
 4. Select option 2.
 5. Select "3" If you didn't follow the ISO tutorial, otherwise you can skip to step 8.
 6. Click "Only show installed apps".
-7. Customize it to your needs, as it also removes stuff some people consider not bloatware like Bing's Weather. When you're done, click "Confirm".
+7. Customize it to your needs as it also removes stuff some people consider not bloatware like Bing's Weather. When you're done, click "Confirm".
 8. Choose "n", If you followed the ISO tutorial, .xml file disables it, otherwise you should remember that winutil disabled it.
 9. Next prompt is yours, decide for yourself. (Pinned apps)
 10. Next prompt for disabling telemetry, choose "y", It is always worth checking If everything is disabled.
@@ -43,7 +43,7 @@ After you've either followed the first tutorial or second one, this section is b
 2. Select option 2.
 3. Select "3" If you didn't follow the ISO tutorial, otherwise you can skip to step 8.
 4. Click "Only show installed apps".
-5. Customize it to your needs, as it also removes stuff some people consider not bloatware such as Bing's Weather. When you're done, click "Confirm".
+5. Customize it to your needs as it also removes stuff some people consider not bloatware such as Bing's Weather. When you're done, click "Confirm".
 6. Choose "n", If you followed the ISO tutorial, .xml file disables it, otherwise you should remember that winutil disabled it.
 7. For the next prompt choose "n".
 8. Obviously you want to be sure that all telemetry is disabled, so choose "y".
