@@ -19,6 +19,7 @@ Select the tutorial depending on your situation.
 7. Go to "Updates" tab and click "Security (Recommended) Settings".
 ### Further Windows 11 Fixing
 **Skip step 1 and 2 for now, since Rectify V4 is being released soon so It's better to wait for important bugs to be fixed**
+
 After you've either followed the first tutorial or second one, this section is basically an extension of both scenarios (for Windows 11), basically what you do after you followed the tutorial above.
 1. Download and install [Rectify](https://rectify11.net/)
 2. During installation, make sure to not check "Themes" and "ExplorerFrame.dll.mun".
