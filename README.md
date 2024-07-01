@@ -35,16 +35,22 @@ After you've either followed the first tutorial or second one, this section is b
 12. Next one obviously choose "y". (Cortana)
 13. Of course disable Co-Pilot, choose "y".
 14. Definetely disable Recall, too much problems with it, choose "y".
-15. For old context menu, Rectify already does that for you, so choose "n". **At the time of writing this, when Rectify is preparing for V4, choose y**
+15. For old context menu, Rectify already does that for you, so choose "n". **At the time of writing this, when Rectify is preparing for V4, choose "y".**
 16. For the next prompts (changing something in services, explorer, context menu) always choose "n".
 17. Congratulations, you successfully debloated, optimized and customized your Windows 11 with just practically 3 programs.
 ### Further Windows 10 Fixing
-
-
+1. Run [Win11Debloat](https://github.com/Raphire/Win11Debloat). Yes, It is made for Windows 11, but it also works for Windows 10, just have to be more careful.
+2. Select option 2.
+3. Select "3" If you didn't follow the ISO tutorial, otherwise you can skip to step 8.
+4. Click "Only show installed apps".
+5. Customize it to your needs, as it also removes stuff some people consider not bloatware such as Bing's Weather. When you're done, click "Confirm".
+6. Choose "n", If you followed the ISO tutorial, .xml file disables it, otherwise you should remember that winutil disabled it.
+7. For the next prompt choose "n".
+8. Obviously you want to be sure that all telemetry is disabled, so choose "y".
+9. For all the other prompts, always choose "n" as they are all made for Windows 11 specifically.
+10. Congratulations, you have debloated, optimized and customized your Windows 10 with just practically 2 programs.
 # Extras
 Soon
 
 # License
 Do whatever you want with this.
-
-https://www.youtube.com/watch?v=mwUBeqHqSas
